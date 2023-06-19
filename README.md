@@ -1,7 +1,5 @@
-![Elteth](./docs/elteth-logo-light.png#gh-dark-mode-only)
-![Elteth](./docs/elteth-logo-dark.png#gh-light-mode-only)
-
-----
+<img src="./docs/elteth-logo-dark.png#gh-dark-mode-only" alt="Elteth" width="103">
+<img src="./docs/elteth-logo-dark.png#gh-light-mode-only" alt="Elteth" width="103">
 
 Production-ready, High-Availability Indexer Framework for EVM chains. Designed for:
 
